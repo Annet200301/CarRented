@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarRentedSystem.Application\CarRentedSystem.Application.csproj" />
+    <ProjectReference Include="..\CarRentedSystem.Infrastructure\CarRentedSystem.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Middleware\" />
+    <Folder Include="Filters\" />
+    <Folder Include="MappingProfiles\" />
+    <Folder Include="ViewModel\" />
+  </ItemGroup>
+
+</Project>

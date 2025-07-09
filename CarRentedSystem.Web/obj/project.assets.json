@@ -64,24 +64,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Annet\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\UT010651\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Annet\\Desktop\\CarRentedSystem\\CarRentedSystem.Web\\CarRentedSystem.Web.csproj",
+      "projectUniqueName": "C:\\Users\\UT010651\\Desktop\\New folder\\CarRented\\CarRentedSystem.Web\\CarRentedSystem.Web.csproj",
       "projectName": "CarRentedSystem.Web",
-      "projectPath": "C:\\Users\\Annet\\Desktop\\CarRentedSystem\\CarRentedSystem.Web\\CarRentedSystem.Web.csproj",
-      "packagesPath": "C:\\Users\\Annet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Annet\\Desktop\\CarRentedSystem\\CarRentedSystem.Web\\obj\\",
+      "projectPath": "C:\\Users\\UT010651\\Desktop\\New folder\\CarRented\\CarRentedSystem.Web\\CarRentedSystem.Web.csproj",
+      "packagesPath": "C:\\Users\\UT010651\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\UT010651\\Desktop\\New folder\\CarRented\\CarRentedSystem.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Annet\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\UT010651\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -89,17 +84,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Annet\\Desktop\\CarRentedSystem\\CarRentedSystem.Application\\CarRentedSystem.Application.csproj": {
-              "projectPath": "C:\\Users\\Annet\\Desktop\\CarRentedSystem\\CarRentedSystem.Application\\CarRentedSystem.Application.csproj"
+            "C:\\Users\\UT010651\\Desktop\\New folder\\CarRented\\CarRentedSystem.Application\\CarRentedSystem.Application.csproj": {
+              "projectPath": "C:\\Users\\UT010651\\Desktop\\New folder\\CarRented\\CarRentedSystem.Application\\CarRentedSystem.Application.csproj"
             },
-            "C:\\Users\\Annet\\Desktop\\CarRentedSystem\\CarRentedSystem.Infrastructure\\CarRentedSystem.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Annet\\Desktop\\CarRentedSystem\\CarRentedSystem.Infrastructure\\CarRentedSystem.Infrastructure.csproj"
+            "C:\\Users\\UT010651\\Desktop\\New folder\\CarRented\\CarRentedSystem.Infrastructure\\CarRentedSystem.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\UT010651\\Desktop\\New folder\\CarRented\\CarRentedSystem.Infrastructure\\CarRentedSystem.Infrastructure.csproj"
             }
           }
         }
@@ -113,8 +109,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -138,7 +133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

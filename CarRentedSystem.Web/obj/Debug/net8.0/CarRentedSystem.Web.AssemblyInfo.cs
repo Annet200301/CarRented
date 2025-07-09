@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarRentedSystem.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2371ee3ad0dccffd141385532ae1764b540b607f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4da62618570fc429317239ec2bb44833bc4f4455")]
+>>>>>>> bb32b1235d64c7b8caf4afa6a85a9b690dcfb39c
 [assembly: System.Reflection.AssemblyProductAttribute("CarRentedSystem.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarRentedSystem.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
